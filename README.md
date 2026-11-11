@@ -4,6 +4,8 @@ Gra 2D w widoku z góry (rzut ortogonalny), napisana w Pythonie z użyciem bibli
 Chodzisz po losowo wygenerowanym lesie i zbierasz grzyby do plecaka. Uważaj na niedźwiedzie:
 one też jedzą grzyby i gonią każdego, kogo zobaczą.
 
+[Zrzut ekranu](screenshot.png)
+
 Każde uruchomienie tworzy nowy świat: las mieszany, krętą drogę przez las, boczną ścieżkę
 prowadzącą na polanę ze stawem, jeziora, krzaki i kamienie. Gra nie używa żadnych plików
 graficznych, wszystko jest rysowane w kodzie.
